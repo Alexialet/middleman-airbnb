@@ -32,7 +32,7 @@ nreix:
   max_guests: 7
 donatienrolland:
   name: Donatien's home
-  description: Nice flat in Berlin
+  description: Nice flat in Amsterdam
   city_name: "Amsterdam, Netherlands"
   city_slug: "amsterdam"
   wifi: true

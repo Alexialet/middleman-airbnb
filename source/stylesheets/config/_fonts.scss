@@ -1,13 +1,14 @@
 // Import Google fonts
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500");
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 // Define fonts for body and headers
 $body-font: "Open Sans", "Helvetica", "sans-serif";
-$headers-font: "Raleway", "Helvetica", "sans-serif";
+$headers-font: "Raleway", "Montserrat", "sans-serif";
 
 // To use a font file (.woff) uncomment following lines
 // @font-face {
-//   font-family: "Font Name";
+// font-family: "Montserra";
 //   src: font-url('FontFile.eot');
 //   src: font-url('FontFile.eot?#iefix') format('embedded-opentype'),
 //        font-url('FontFile.woff') format('woff'),

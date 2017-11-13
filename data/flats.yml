@@ -1,0 +1,48 @@
+agaloub:
+  name: "Agathe's home"
+  description: "Charming room in Bastille"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  max_guests: 4
+guillaumeh95:
+  name: "Guillaume's home"
+  description: "Amazing flat in Tokyo"
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  max_guests: 15
+Mathildanancia:
+  name: Mathilde's home
+  description: Nice flat in Montmartre
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  max_guests: 10
+nreix:
+  name: Nathan's home
+  description: Nice flat in Lisbon
+  city_name: "Lisbon, Portugal"
+  city_slug: "lisbon"
+  wifi: true
+  rating: 4
+  max_guests: 7
+donatienrolland:
+  name: Donatien's home
+  description: Nice flat in Berlin
+  city_name: "Amsterdam, Netherlands"
+  city_slug: "amsterdam"
+  wifi: true
+  rating: 4
+  max_guests: 2
+fletchdav:
+  name: David's home
+  description: Nice flat in Berlin
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 4
+  max_guests: 2

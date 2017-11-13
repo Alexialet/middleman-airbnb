@@ -21,6 +21,6 @@ activate :deploy do |deploy|
   deploy.deploy_method = :git
 end
 
-["agaloub", "guillaumeh95", "Mathildanancia", "nreix", "donatienrolland", "fletchdavcd"].each do |name|
+["agaloub", "guillaumeh95", "Mathildanancia", "nreix", "donatienrolland", "fletchdav"].each do |name|
   proxy "/flats/#{name}.html", "/flats/show.html", locals: { owner: name }, ignore: true
 end
